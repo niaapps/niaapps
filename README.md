@@ -1,8 +1,10 @@
 # ✨ Nia W. (she/her)
 
-<img src="/images/hw.gif" alt="Hello World! being typed." width="300px"/>
-<img src="/images/nagato.gif" width="400px" align="right" title="Yuki Nagato a robot, hacking and typing very quickly."alt="Yuki Nagato a robot, hacking and typing very quickly." />
+<img src="/images/hw.gif" alt="Hello World! being typed." align="left" width="300px"/>
+<img src="/images/nagato.gif" width="400px" align="right" title="Yuki Nagato a robot, hacking and typing very quickly."alt="Yuki Nagato a robot, hacking and typing very quickly." />    
 
+ <br></br>
+ &nbsp;&nbsp;&nbsp;
 <p align="left">
 My name is Nia and I am a software developer. I design websites and make android applications. I go to CUNY Queens College and am majoring in Computer Science. I take on freelance projects through my <a href="https://niaapps.github.io/" target="_blank" title="Nia Applications Website">website</a>. I also blog <a href="https://niaapps.github.io/niaapps-blog" target="_blank" title="Nia's Blog">here</a>. You can learn more about my past work <a  href="https://niaapps.github.io/portfolio.html" target="_blank" title="Nia's Portfolio">here</a>.
 </p> 
