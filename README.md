@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" media="all" href="styles.css" />
 ### Nia W. (she/her)
 <img src="/images/hw.gif" padding="20px;" alt="Hello World! being typed." width="275px"/>
 <img src="/images/nagato.gif" width="400px" align="right" title="Yuki Nagato a robot, hacking and typing very quickly."alt="Yuki Nagato a robot, hacking and typing very quickly." display="inline-block" />
