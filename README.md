@@ -20,11 +20,11 @@ My name is Nia and I am a software developer. I design websites and make android
 * SQL
 * Python
 
+
 ## 🧰 I’m currently working on:
 * 🍓 [Strawberry Wordpress Custom Theme from Scratch](https://niaapps.github.io/strawberry-wp-theme.html)
 * 💰 [PenniezzZ app](https://github.com/baljeettj/penniezzz)
 
-## ⚡ Fun fact: I love to dye my hair wild colors💜💙💚
 
 ## 📧 Contact:
 Get in touch [here](https://niaapps.github.io/contact.html)     
@@ -35,3 +35,4 @@ Or email me directly at: niaapplications@gmail.com
 <a href="https://twitter.com/niawillie" target="_blank"> <img src="/images/twitter.png" alt="twi-link" width="28px" height="28px"></a>
 <a href="https://www.linkedin.com/in/niaapps" target="_blank"> <img src="/images/li.png" alt="li-link" width="32px" height="32px"></a>
 
+## ⚡ Fun fact: I love to dye my hair wild colors💜💙💚
