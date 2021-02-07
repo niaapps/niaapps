@@ -1,8 +1,8 @@
 ### Nia W. (she/her)
 <img src="/images/hw.gif" padding="20px;" alt="Hello World! being typed." width="275px"/>
 <img src="/images/nagato.gif" width="400px" align="right" title="Yuki Nagato a robot, hacking and typing very quickly."alt="Yuki Nagato a robot, hacking and typing very quickly." display="inline-block" />
-<p align="left" display="inline-block">Hi there!
-My name is Nia and I am a software developer. I design websites and make android applications. I go to CUNY Queens College and am majoring in Computer Science. I take on freelance projects on my <a href="https://niaapps.github.io/" target="_blank" title="Nia Applications Website">website</a>. </p> 
+<p align="left" display="inline-block">
+My name is Nia and I am a software developer. I design websites and make android applications. I go to CUNY Queens College and am majoring in Computer Science. I take on freelance projects on my <a class="button" href="https://niaapps.github.io/" target="_blank" title="Nia Applications Website">website</a>. </p> 
 
 
 <!---
