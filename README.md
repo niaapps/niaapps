@@ -1,24 +1,36 @@
-<link rel="stylesheet" type="text/css" media="all" href="styles.css" />
+# ✨ Nia W. (she/her)
 
-### Nia W. (she/her)
+<img src="/images/hw.gif" alt="Hello World! being typed." width="300px"/>
+<img src="/images/nagato.gif" width="400px" align="right" title="Yuki Nagato a robot, hacking and typing very quickly."alt="Yuki Nagato a robot, hacking and typing very quickly." />
 
-<img src="/images/hw.gif" padding="20px;" alt="Hello World! being typed." width="275px"/>
-<img src="/images/nagato.gif" width="400px" align="right" title="Yuki Nagato a robot, hacking and typing very quickly."alt="Yuki Nagato a robot, hacking and typing very quickly." display="inline-block" />
-<p align="left" display="inline-block">
-My name is Nia and I am a software developer. I design websites and make android applications. I go to CUNY Queens College and am majoring in Computer Science. I take on freelance projects on my <a class="button" href="https://niaapps.github.io/" target="_blank" title="Nia Applications Website">website</a>. </p> 
+<p align="left">
+My name is Nia and I am a software developer. I design websites and make android applications. I go to CUNY Queens College and am majoring in Computer Science. I take on freelance projects through my <a href="https://niaapps.github.io/" target="_blank" title="Nia Applications Website">website</a>. I also blog <a href="https://niaapps.github.io/niaapps-blog" target="_blank" title="Nia's Blog">here</a>. You can learn more about my past work <a  href="https://niaapps.github.io/portfolio.html" target="_blank" title="Nia's Portfolio">here</a>.
+</p> 
 
+## 💻 Technical Skills
+### Languages: 
+* Java 
+* HTML 
+* CSS 
+* XML 
+* JS
+* C++
 
-<!---
-Here are some ideas to get you started:
+### 🌱 I’m currently learning:
+* SQL
+* Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+## 🧰 I’m currently working on:
+🍓 Strawberry Wordpress Custom Theme from Scratch
+🪙
 
+⚡ Fun fact: ... 
+## 📧 Contact:
+Get in touch [here](https://niaapps.github.io/contact.html) 
+Or email me directly at: niaapplications@gmail.com
 
-<!--- 📫 How to reach me: -->
+## 🤝🏼 Connect:
+<a href="https://www.facebook.com/niaapplications/" target="_blank"> <img src="/images/fb.png" alt="fb-link" width="32px" height="32px"></a>
+<a href="https://twitter.com/niawillie" target="_blank"> <img src="/images/twitter.png" alt="twi-link" width="28px" height="28px"></a>
+<a href="https://www.linkedin.com/in/niaapps" target="_blank"> <img src="/images/li.png" alt="li-link" width="32px" height="32px"></a>
+
