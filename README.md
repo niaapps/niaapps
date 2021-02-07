@@ -1,6 +1,7 @@
 # ✨ Nia W. (she/her)
 
-<img src="/images/hw.gif" alt="Hello World! being typed." align="left" width="300px"/>
+<img src="/images/hw.gif" alt="Hello World! being typed." align="left" width="300px"/> 
+<br></br>
 <img src="/images/nagato.gif" width="400px" align="right" title="Yuki Nagato a robot, hacking and typing very quickly."alt="Yuki Nagato a robot, hacking and typing very quickly." />    
 
  <br></br>
