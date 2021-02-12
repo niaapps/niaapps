@@ -7,7 +7,7 @@
  <br></br>
  &nbsp;&nbsp;&nbsp;
 <p align="left">
-My name is Nia and I am a software developer. I design websites and make android applications. I go to CUNY Queens College and am majoring in Computer Science. I take on freelance projects through my <a href="https://niaapps.github.io/" target="_blank" title="Nia Applications Website">website</a>. I also blog <a href="https://niaapps.github.io/niaapps-blog" target="_blank" title="Nia's Blog">here</a>. You can learn more about my past work <a  href="https://niaapps.github.io/portfolio.html" target="_blank" title="Nia's Portfolio">here</a>.
+My name is Nia and I am a software developer. I design websites and make Android applications. I go to CUNY Queens College and am majoring in Computer Science. I take on freelance projects through my <a href="https://niaapps.github.io/" target="_blank" title="Nia Applications Website">website</a>. I also blog <a href="https://niaapps.github.io/niaapps-blog" target="_blank" title="Nia's Blog">here</a>. You can learn more about my past work <a  href="https://niaapps.github.io/portfolio.html" target="_blank" title="Nia's Portfolio">here</a>.
 </p> 
 
 ## 💻 Technical Skills
