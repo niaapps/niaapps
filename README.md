@@ -1,4 +1,4 @@
-# ✨ Nia W. (she/her)
+# ✨ Nia W. (she/they)
 
 <img src="/images/hw.gif" alt="Hello World! being typed." align="left" width="300px"/> 
 <br></br>
@@ -35,7 +35,9 @@ Or email me directly at: niaapplications@gmail.com
 
 ## 🤝🏼 Connect:
 <a href="https://www.facebook.com/niaapplications/" target="_blank"> <img src="/images/fb.png" alt="fb-link" width="32px" height="32px"></a>
+<a href="https://www.instagram.com/niaapplications/" target="_blank"> <img src="/images/ig.png" alt="instagram-link" style="width: 32px; height:32px "></a>
 <a href="https://twitter.com/niawillie" target="_blank"> <img src="/images/twitter.png" alt="twi-link" width="28px" height="28px"></a>
 <a href="https://www.linkedin.com/in/niaapps" target="_blank"> <img src="/images/li.png" alt="li-link" width="32px" height="32px"></a>
+
 
 ## ⚡ Fun fact: I love to dye my hair wild colors💜💙💚
