@@ -26,7 +26,9 @@ My name is Nia and I am a software developer. I design websites and make Android
 
 ## 🧰 I’m currently working on:
 * 🍓 [Strawberry Wordpress Custom Theme from Scratch](https://niaapps.github.io/strawberry-wp-theme.html)
+* 📱 [Revamping NiaApp](https://github.com/niaapps/NiaApp)
 * 💰 [PenniezzZ app](https://github.com/niaapps/penniezzz)
+
 
 
 ## 📧 Contact:
