@@ -22,6 +22,8 @@ My name is Nia and I am a software developer. I design websites and make Android
 ### 🌱 I’m currently learning:
 * SQL
 * Python
+* C
+* Node.js
 
 
 ## 🧰 I’m currently working on:
