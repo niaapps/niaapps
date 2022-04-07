@@ -1,4 +1,4 @@
-# ✨ Nia W. (she/they)
+# ✨ Nia W. (they/them)
 
 <img src="/images/hw.gif" alt="Hello World! being typed." align="left" width="300px"/> 
 <br></br>
