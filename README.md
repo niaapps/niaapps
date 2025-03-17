@@ -12,25 +12,16 @@ My name is Nia and I am a software developer. I design websites and make Android
 
 ## 💻 Technical Skills
 ### Languages: 
-* Java 
+* React Native & Typescript
+* Java
+* XML
+* SwiftUI
 * HTML 
-* CSS 
-* XML 
-* JS
-* C++
-
-### 🌱 I’m currently learning:
+* CSS, Bootstrap
+* Browser JS and Node.js
+* C++ / C
 * SQL
 * Python
-* C
-* Node.js
-
-
-## 🧰 I’m currently working on:
-* 🍓 [Strawberry Wordpress Custom Theme from Scratch](https://niaapps.github.io/strawberry-wp-theme.html)
-* 📱 [Revamping NiaApp](https://github.com/niaapps/NiaApp)
-* 💰 [PenniezzZ app](https://github.com/niaapps/penniezzz)
-
 
 
 ## 📧 Contact:
@@ -39,8 +30,6 @@ Or email me directly at: niaapplications@gmail.com
 
 ## 🤝🏼 Connect:
 <a href="https://www.facebook.com/niaapplications/" target="_blank"> <img src="/images/fb.png" alt="fb-link" width="32px" height="32px"></a>
-<a href="https://www.instagram.com/nia.apps/" target="_blank"> <img src="/images/ig.png" alt="instagram-link" style="width: 32px; height:32px "></a>
-<a href="https://twitter.com/niawillie" target="_blank"> <img src="/images/twitter.png" alt="twi-link" width="28px" height="28px"></a>
 <a href="https://www.linkedin.com/in/niaapps" target="_blank"> <img src="/images/li.png" alt="li-link" width="32px" height="32px"></a>
 
 
