@@ -12,8 +12,8 @@ My name is Nia and I am a software developer. I design websites and make Android
 
 ## 💻 Technical Skills
 ### Languages: 
-* React Native & Typescript
-* Java
+* React, React Native & Typescript
+* Java / Kotlin / Jetpack Compose
 * XML
 * SwiftUI
 * HTML 
@@ -29,8 +29,7 @@ Get in touch [here](https://niaapps.github.io/contact.html)
 Or email me directly at: niaapplications@gmail.com
 
 ## 🤝🏼 Connect:
-<a href="https://www.facebook.com/niaapplications/" target="_blank"> <img src="/images/fb.png" alt="fb-link" width="32px" height="32px"></a>
 <a href="https://www.linkedin.com/in/niaapps" target="_blank"> <img src="/images/li.png" alt="li-link" width="32px" height="32px"></a>
 
 
-## ⚡ Fun fact: I love to dye my hair wild colors💜💙💚
+## ⚡ Fun fact: I prefer tea over coffee 🫖
